@@ -38,6 +38,13 @@ Options:
 
 ### Solved
 
+[25 - 1000-digit Fibonacci number](https://projecteuler.net/problem=25)
+```
+./problem_025.py --help
+./problem_025.py -l 3
+./problem_025.py -l 1000
+```
+
 [77 - Prime summations](https://projecteuler.net/problem=77)
 ```
 ./problem_077.py --help
