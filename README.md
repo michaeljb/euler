@@ -45,6 +45,14 @@ Options:
 ./problem_025.py -l 1000
 ```
 
+[47 - Distinct primes factors](https://projecteuler.net/problem=47)
+```
+./problem_047.py --help
+./problem_047.py -n 2
+./problem_047.py -n 3
+./problem_047.py -n 4
+```
+
 [77 - Prime summations](https://projecteuler.net/problem=77)
 ```
 ./problem_077.py --help
