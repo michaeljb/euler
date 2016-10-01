@@ -45,6 +45,13 @@ Options:
 ./problem_025.py -l 1000
 ```
 
+[35 - Circular primes](https://projecteuler.net/problem=35)
+```
+./problem_035.py --help
+./problem_035.py -l 100 -p
+./problem_035.py -l 1000000
+```
+
 [47 - Distinct primes factors](https://projecteuler.net/problem=47)
 ```
 ./problem_047.py --help
